@@ -37,8 +37,9 @@ to explrore in their personal projects.
 
 My personal projects done with JavaScript:
 
-+ ${Ella}
-It is:
+*${Ella}*
+
+ It is:
 
 - Discord Verified
 - With over 135k users
