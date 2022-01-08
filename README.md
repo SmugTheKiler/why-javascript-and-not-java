@@ -29,7 +29,7 @@ Some examples of that I know of:
 
 ## 4: Variety of packages
 If you use a browser and search something like, "How many python packages are there?",
-you will see its arround 330k. If you replace Python with JavaScript, its going to say
+you will see its arround 350k. If you replace Python with JavaScript, its going to say
 ***1.3 Million***, meaning there are more interesting packages for users to use, and
 to explrore in their personal projects.
 
@@ -51,3 +51,8 @@ Has:
 - Over 100 different commands
 - Lots of catergrories for them (15+)
 - A database.
+
+Links:
+- [${Ella}](https://discord.com/oauth2/authorize?client_id=743292394237329440&scope=bot&permissions=8)
+- [How many NPM packages are there?](https://www.google.com/search?q=how+many+npm+packages+are+there&rlz=1C1CHBF_enUS969US969&oq=how+many+npm+packages+are+there&aqs=chrome..69i57.3632j0j7&sourceid=chrome&ie=UTF-8)
+- [How many PYTHON packages are there?](https://pypi.org/)
