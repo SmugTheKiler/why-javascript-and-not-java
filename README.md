@@ -5,15 +5,15 @@ Why I feel like learning JavaScript is wayy better than Java.
 
 ## 1: HTML Programming
 You can put JavaScript into HTML, and make awesome things with it.
-Even tho Java can also be in a website, browsers have lots of things
-for it like debuggers implimented right into it, and more browsers 
-support it then Java.
+Even tho Java can also be on a website, browsers have lots of things
+for it like debuggers implemented right into it, and more browsers 
+support it than Java.
 
-## 2: Simplisity
+## 2: Simplicity
 For the kids that learn it in school, honestly, JavaScript is better.
-Its a good language to get into the world of programming and to begin
+It's a good language to get into the world of programming and to begin
 with, since it's used in lots of places, and is more simple, or at least,
-it looks and is easier to learn for the very new beginers. They don't
+it looks and is easier to learn for very new beginners. They don't
 have to put things such as <>, or ** somewhere. In JavaScript on other
 hand, you can just do stuff like ```const constant = require('package') ```
 
@@ -29,13 +29,13 @@ Some examples of that I know of:
 
 ## 4: Variety of packages
 If you use a browser and search something like, "How many python packages are there?",
-you will see its arround 350k. If you replace Python with JavaScript, its going to say
+you will see it is around 350k. If you replace Python with JavaScript, it's going to say
 ***1.3 Million***, meaning there are more interesting packages for users to use, and
-to explrore in their personal projects.
+to explore in their personal projects.
 
 ### Fun Fact: NPM is the biggest package registry in the World.
 
-My personal projects done with JavaScript:
+My personal projects that are done with JavaScript:
 
 *${Ella}*
 
@@ -43,13 +43,13 @@ My personal projects done with JavaScript:
 
 - Discord Verified
 - With over 135k users
-- Made entirly out of plain JavaScript and packages of NPM...
-- Is almost 2 years old of the time of me writing this..
+- Made entirely out of plain JavaScript and packages of NPM...
+- Is almost 2 years old at the time I write this..
 
 Has:
 
 - Over 100 different commands
-- Lots of catergrories for them (15+)
+- Lots of categories for them (15+)
 - A database.
 
 Links:
