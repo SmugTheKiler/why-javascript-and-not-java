@@ -33,6 +33,11 @@ you will see it is around 350k. If you replace Python with JavaScript, it's goin
 ***1.3 Million***, meaning there are more interesting packages for users to use, and
 to explore in their personal projects.
 
+
+*There are a bunch of more reasons to it, but these are what I belive the main ones.*
+
+ And yes, I can probably see why you chose Java. It's good for some things that JavaScript isn't (OOP), but I am unsure if the students will get to that anytime soon.
+
 ### Fun Fact: NPM is the biggest package registry in the World.
 
 My personal projects that are done with JavaScript:
