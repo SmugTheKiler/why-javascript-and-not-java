@@ -46,8 +46,8 @@ My personal projects that are done with JavaScript:
 
  It is:
 
-- Discord Verified (150+ servers)
-- With over 170k users
+- Discord Verified (210+ servers)
+- With over 180k users
 - Made entirely out of plain JavaScript and packages of NPM...
 - Is almost 2 years old at the time I write this..
 
